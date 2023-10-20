@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Common Config UI**<br><br>- 🌱 I’m currently learning **SEO Optimization**<br><br>- 💬 Ask me about **react, redux, node, express**<br><br>- ⚡ Fun fact **code and fun**
+- 🔭 I’m currently working on **Common Config UI**<br><br>- 🌱 I’m currently learning **Webpage Optimization**<br><br>- 💬 Ask me about **react, redux, node, express**<br><br>- ⚡ Fun fact **code and fun**
 
 
 ## 🌐 Socials:
