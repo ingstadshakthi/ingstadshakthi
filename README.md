@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **NVC Application**<br><br>- 🌱 I’m currently learning **Web Application Security**<br><br>- 💬 Ask me about **NextJs, react, redux, node, express**<br><br>- ⚡ Fun fact **code and fun**
+- 🔭 I’m currently working on **NVC Application**<br><br>- 🌱 I’m currently learning **Frontend System Design**<br><br>- 💬 Ask me about **NextJs, react, redux, node, express**<br><br>- ⚡ Fun fact **code and fun**
 
 
 ## 🌐 Socials:
